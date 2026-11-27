@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://paradise-school-vh65.onrender.com/sitemap.xml
